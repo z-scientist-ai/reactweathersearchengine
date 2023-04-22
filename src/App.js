@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/z-scientist-ai/reactweathersearchengine"
+            href="https://reactweathersearchengine.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
