@@ -10,15 +10,16 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a
+          {/* <a
             href="#"
             rel="noopener noreferrer"
           >
             Zara
-          </a>{" "}
+          </a>*/ }
+          <strong>Zara</strong>{" "}
           and is{" "}
           <a
-            href="#"
+            href="https://github.com/z-scientist-ai/reactweathersearchengine"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -26,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="#"
+            href="https://github.com/z-scientist-ai/reactweathersearchengine"
             target="_blank"
             rel="noopener noreferrer"
           >
